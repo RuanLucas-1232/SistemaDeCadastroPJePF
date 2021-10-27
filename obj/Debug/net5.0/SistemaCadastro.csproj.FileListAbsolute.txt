@@ -1,0 +1,16 @@
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.exe
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.deps.json
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.runtimeconfig.json
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.runtimeconfig.dev.json
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.dll
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\ref\SistemaCadastro.dll
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\bin\Debug\net5.0\SistemaCadastro.pdb
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.dll
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\ref\SistemaCadastro.dll
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.pdb
+C:\Users\Usuário\Desktop\Repositório\SistemaCadastro\SistemaCadastro\obj\Debug\net5.0\SistemaCadastro.genruntimeconfig.cache
